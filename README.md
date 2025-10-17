@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%">
+  <img src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Tofashish Nujum</span></h1>
@@ -15,15 +15,15 @@
 
 🎯 I’m a passionate **Frontend Developer** focused on building responsive, user-friendly, and modern web applications.  
 💡 I love solving problems and continuously learning about new technologies in web development.  
-🚀 Currently improving my full-stack skills and exploring **Next.js** and **backend integration**.  
+🚀 Currently improving my full-stack skills and exploring **Laravel** and **backend integration**.  
 🌱 Always open to collaborating on creative and impactful projects.
 
 ---
 
 ## 🧠 Current Activities
 
-- 🌐 Exploring **Next.js** and server-side rendering  
-- 💼 Building a **Tourism Website Project** with React + Firebase  
+- 🌐 Exploring **Laravel** and server-side rendering  
+- 💼 Building a **Academic Portal** with React + Firebase  
 - 📚 Enhancing skills in **JavaScript**, **TailwindCSS**, and **RESTful APIs**  
 - 🤝 Contributing to open-source projects
 
@@ -54,11 +54,8 @@
   <a href="https://github.com/tofashish527" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tofashish-nujum" target="_blank">
+  <a href="https://www.linkedin.com/in/tofashish-nujum-58a443360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tofashish@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -89,12 +86,12 @@
 
 ### 📫 Contact Me
 - 📍 **Location:** Dhaka, Bangladesh  
-- 📧 **Email:** tofashish@example.com  
-- 📞 **Phone:** +8801XXXXXXXXX  
-- 💬 **WhatsApp:** +8801XXXXXXXXX  
+- 📧 **Email:** 2011nujum@gmail.com  
+- 📞 **Phone:** +8801705102184  
+- 💬 **WhatsApp:** +8801338996220  
 
 ---
 
 <p align="center">
-  <b>⭐ “Strive not to be a success, but rather to be of value.” — Albert Einstein ⭐</b>
+  <b> “Strive not to be a success, but rather to be of value.” — Albert Einstein </b>
 </p>
