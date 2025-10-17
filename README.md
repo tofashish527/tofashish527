@@ -1,19 +1,100 @@
-## Hi there 👋
+<!-- Profile README for GitHub — Created by Tofashish Nujum -->
 
-<h1 align="center">Hi 👋, I'm Tofashish Nujum</h1>
-<h3 align="center">I am a passionate web developer exploring modern frontend frameworks.I enjoy building responsive, dynamic, and user-friendly websites.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tofashish nujum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tofashish nujum" height="30" width="40" /></a>
-<a href="https://fb.com/tofashish nujum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tofashish nujum" height="30" width="40" /></a>
+<!-- 🖼️ Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Tofashish Nujum</span></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofashish527&show_icons=true&locale=en&layout=compact" alt="tofashish527" /></p>
+<h3 align="center">💻 Frontend Developer | React Enthusiast | Problem Solver</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofashish527&show_icons=true&locale=en" alt="tofashish527" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofashish527&" alt="tofashish527" /></p>
+## 👨‍💼 About Me
+
+🎯 I’m a passionate **Frontend Developer** focused on building responsive, user-friendly, and modern web applications.  
+💡 I love solving problems and continuously learning about new technologies in web development.  
+🚀 Currently improving my full-stack skills and exploring **Next.js** and **backend integration**.  
+🌱 Always open to collaborating on creative and impactful projects.
+
+---
+
+## 🧠 Current Activities
+
+- 🌐 Exploring **Next.js** and server-side rendering  
+- 💼 Building a **Tourism Website Project** with React + Firebase  
+- 📚 Enhancing skills in **JavaScript**, **TailwindCSS**, and **RESTful APIs**  
+- 🤝 Contributing to open-source projects
+
+---
+
+## ⚙️ Skills
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,bootstrap" />
+</p>
+
+### 🧩 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/tofashish527" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tofashish-nujum" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tofashish@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tofashish527&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofashish527&layout=compact&theme=tokyonight" alt="Top Languages" height="150px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tofashish527&theme=tokyonight" alt="GitHub Streak" height="150px" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [🏕️ Hobby Tribe](https://hobby-tribe.vercel.app/) | A social platform for hobby-based groups. | React, MongoDB, Firebase |
+| [⚙️ SwiftFix](https://swiftfix-client.vercel.app/) | Service management and booking app. | React, Express, Tailwind |
+| [📊 Task Monitor](https://task-monitor-client.web.app/) | Track employee tasks and productivity. | React, Firebase, Recharts |
+
+---
+
+### 📫 Contact Me
+- 📍 **Location:** Dhaka, Bangladesh  
+- 📧 **Email:** tofashish@example.com  
+- 📞 **Phone:** +8801XXXXXXXXX  
+- 💬 **WhatsApp:** +8801XXXXXXXXX  
+
+---
+
+<p align="center">
+  <b>⭐ “Strive not to be a success, but rather to be of value.” — Albert Einstein ⭐</b>
+</p>
