@@ -78,8 +78,8 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🏕️ Hobby Tribe](https://hobby-tribe.vercel.app/) | A social platform for hobby-based groups. | React, MongoDB, Firebase |
-| [⚙️ SwiftFix](https://swiftfix-client.vercel.app/) | Service management and booking app. | React, Express, Tailwind |
+| [🏕️ Hobby Tribe](https://hobby-tribe-355ca.web.app/) | A social platform for hobby-based groups. | React, MongoDB, Firebase |
+| [⚙️ SwiftFix](https://swiftfix-client.web.app) | Service management and booking app. | React, Express, Tailwind |
 | [📊 Task Monitor](https://task-monitor-client.web.app/) | Track employee tasks and productivity. | React, Firebase, Recharts |
 
 ---
@@ -87,8 +87,8 @@
 ### 📫 Contact Me
 - 📍 **Location:** Dhaka, Bangladesh  
 - 📧 **Email:** 2011nujum@gmail.com  
-- 📞 **Phone:** +8801705102184  
-- 💬 **WhatsApp:** +8801338996220  
+- 📞 **Phone:** +8801338996220 
+- 💬 **WhatsApp:** +8801705102184   
 
 ---
 
