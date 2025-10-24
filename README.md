@@ -6,11 +6,6 @@
   <img src="https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg" alt="Banner" width="100%" />
 </div>
 
-<div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-Tofashish--Nujum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tofashish-nujum-58a443360/)](https://www.linkedin.com/in/tofashish-nujum-58a443360/)
-  [![GitHub Badge](https://img.shields.io/badge/-Tofashish527-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/tofashish527)](https://github.com/tofashish527)
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](#)
-</div>
 
 ---
 
@@ -65,25 +60,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=tofashish527&show_icons=true&theme=tokyonight">
-  <img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofashish527&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=10&layout=compact" />
-</p>
-
----
-
-## 📌 Pinned Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🏕️ Hobby Tribe](https://hobby-tribe-355ca.web.app/) | Social platform for hobby-based groups. | React, MongoDB, Firebase |
-| [⚙️ SwiftFix](https://swiftfix-client.web.app) | Service management & booking app. | React, Express, Tailwind |
-| [📊 Task Monitor](https://task-monitor-client.web.app/) | Track employee tasks & productivity. | React, Firebase, Recharts |
-
----
+--- ## 🌐 Connect With Me <p align="left"> <a href="https://github.com/tofashish527" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/tofashish-nujum-58a443360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tofashish527&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofashish527&layout=compact&theme=tokyonight" alt="Top Languages" height="150px" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=tofashish527&theme=tokyonight" alt="GitHub Streak" height="150px" /> </p> --- ## 📌 Pinned Projects | Project | Description | Tech | |----------|--------------|------| | [🏕️ Hobby Tribe](https://hobby-tribe-355ca.web.app/) | A social platform for hobby-based groups. | React, MongoDB, Firebase | | [⚙️ SwiftFix](https://swiftfix-client.web.app) | Service management and booking app. | React, Express, Tailwind | | [📊 Task Monitor](https://task-monitor-client.web.app/) | Track employee tasks and productivity. | React, Firebase, Recharts |
 
 ## ✍️ Random Dev Quote
 
@@ -98,8 +75,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tofashish--Nujum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tofashish-nujum-58a443360/)](https://www.linkedin.com/in/tofashish-nujum-58a443360/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/tofashish527)](https://github.com/tofashish527)
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
