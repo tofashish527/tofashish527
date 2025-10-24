@@ -8,7 +8,7 @@
 
 <div align="center">
   [![Linkedin Badge](https://img.shields.io/badge/-Tofashish--Nujum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tofashish-nujum-58a443360/)](https://www.linkedin.com/in/tofashish-nujum-58a443360/)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/tofashish527)](https://github.com/tofashish527)
+  [![GitHub Badge](https://img.shields.io/badge/-Tofashish527-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/tofashish527)](https://github.com/tofashish527)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](#)
 </div>
 
